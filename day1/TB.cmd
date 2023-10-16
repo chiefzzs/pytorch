@@ -1,0 +1,2 @@
+cd TB
+tensorboard --logdir=./

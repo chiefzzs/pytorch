@@ -1,0 +1,2 @@
+cd torchlogs
+tensorboard --logdir=./

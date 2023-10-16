@@ -1,0 +1,2 @@
+cd runs
+tensorboard --logdir=./
